@@ -197,12 +197,37 @@ The joint synthesis methodology builds on the **FACT framework** (Freedom, Actua
 > Hopkins, J.B. and Culpepper, M.L. — *Synthesis of multi-degree of freedom, parallel flexure system concepts via freedom and constraint topology (FACT)*, Precision Engineering, 2010.
 
 ---
+## 🔧 Work in Progress — Project Tumbaga
 
+*Tumbaga* is a parametric design generator for FACT-based compliant joints and flexure chains,
+currently under active development as part of this framework.
+
+Named after the gold-copper alloy mastered by pre-Columbian Muisca and Quimbaya goldsmiths —
+a material that is neither pure gold nor pure copper, but stronger and more workable than either —
+Tumbaga reflects the same idea: combining geometric theory (FACT) with practical fabrication
+constraints to produce something more useful than either alone.
+
+**What it does:**
+Given a set of design requirements, Tumbaga outputs a print-ready STL of a compliant joint or
+flexure chain — no CAD software required:
+
+- Degrees of freedom (1-DOF revolute, 2-DOF universal, translational, or combined)
+- Target range of motion per joint
+- Physical dimensions (length, width, and scale)
+- Motion axis orientation
+- Material selection (PETG, PLA, TPU) with automatic stress threshold validation
+
+The output is a fully parametric, FEA-informed geometry ready to send directly to any
+standard FDM printer — closing the loop between the FACT synthesis methodology documented
+in this repository and a physical prototype.
+
+> **Status:** Active development. Not yet released.
+> Follow this repository for updates.
+---
 ## Author
 
 **Gilberto Galvis Giraldo**
 M.Sc. Electrical and Computer Engineering — Sungkyunkwan University, South Korea
-From Manizales, Caldas, Colombia
 
 ---
 
