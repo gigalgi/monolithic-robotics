@@ -3,7 +3,7 @@
 **A compliant mechanism framework for anthropomorphic robot design — from a single joint to a full arm, printed in one piece.**
 
 [![Thesis](https://img.shields.io/badge/Thesis-SKKU%202024-blue)](https://dcollection.skku.edu/srch/srchDetail/000000181091?localeParam=en)
-[![Paper](https://img.shields.io/badge/ICCAS-2024-green)](https://iccas.org)
+[![Paper](https://img.shields.io/badge/ICCAS-2024-green)](https://iccas.org](https://ieeexplore.ieee.org/document/10773068)
 [![Technical Report](https://img.shields.io/badge/Technical%20Report-UMoBIC--Finger-orange)](docs/umobic-finger-technical-report.pdf)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
