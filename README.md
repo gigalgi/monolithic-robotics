@@ -165,10 +165,6 @@ monolithic-robotics/
 | Repo | Description |
 |---|---|
 | [open-yta-hand](../open-yta-hand) | Full implementation: finger → hand → wrist. Control code, firmware, MuJoCo, LSTM IK, motion capture |
-| [open-pquaca-arm](../open-pquaca-arm) | Traditional links + joints arm — separate design lineage |
-| [open-kumanday-humanoid](../open-kumanday-humanoid) | Full humanoid platform (roadmap) |
-| [open-poporo-vla](../open-poporo-vla) | Embodied foundation models for manipulation |
-
 ---
 
 ## Publications
@@ -182,6 +178,7 @@ monolithic-robotics/
 > *Design of a Modular Anthropomorphic Hand with Integrated Monolithic Compliant Fingers and Wrist Joint*
 > Gilberto Galvis Giraldo, Arpan Ghosh, Tae-Yong Kuc
 > 24th International Conference on Control, Automation and Systems, Jeju, Korea
+> doi:10.23919/iccas63016.2024.10773068
 
 **Technical Report** — 2026
 > *UMoBIC-Finger: An Underactuated Monolithic Bio-inspired Compliant Robotic Finger*
