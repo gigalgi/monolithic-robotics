@@ -51,6 +51,7 @@ The result: a full anthropomorphic arm with 6 degrees of freedom at the arm leve
 The joint is the foundation of everything. It was designed using the **six-step FACT synthesis process**, beginning from the geometry of a human synovial joint and working through freedom and constraint topology analysis to arrive at a manufacturable compliant structure.
 
 <div align="center">
+  <img src="docs/images/umobic-joint-from-scratch.png" width="550"/>
   <img src="docs/images/umobic-joint-versions.png" width="550" alt="UMoBIC Joint Version 1 and 2"/>
   <br><em>UMoBIC joint — Version 1 (left) and Version 2 (right), each with embedded contact rolling element. Version 2 reduces peak stress by 15.25% and increases range of motion.</em>
 </div>
