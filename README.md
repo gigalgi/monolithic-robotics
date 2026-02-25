@@ -155,8 +155,8 @@ monolithic-robotics/
 ├── docs/
 │   ├── umobic-finger-technical-report.pdf   ← Full joint & finger design document
 │   └── images/                              ← Design figures
-├── joint/
-│   └── cad/                                 ← UMoBIC joint CAD files (v1 and v2)
+├── joints/
+│   └── cad/                                 ← UMoBIC joint CAD files (v2) and extended joints
 └── README.md
 ```
 
