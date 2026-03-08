@@ -178,7 +178,7 @@ monolithic-robotics/
 > *Design of a Modular Anthropomorphic Hand with Integrated Monolithic Compliant Fingers and Wrist Joint*
 > Gilberto Galvis Giraldo, Arpan Ghosh, Tae-Yong Kuc
 > 24th International Conference on Control, Automation and Systems, Jeju, Korea
-> doi:10.23919/iccas63016.2024.10773068
+> doi:10.23919/iccas63016.2024.10773068. [[Paper]](https://ieeexplore.ieee.org/document/10773068)
 
 **Technical Report** — 2026
 > *UMoBIC-Finger: An Underactuated Monolithic Bio-inspired Compliant Robotic Finger*
